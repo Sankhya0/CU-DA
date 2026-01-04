@@ -164,7 +164,6 @@ Stage 3: Full Test-Time Augmentation (TTA-Full)
 *Figure 2: Accuracy progression as model adapts to each domain sequentially (Art → Clipart → Product → RealWorld)*
 
 ### Forgetting vs Adaptation Trade-off
-**Approach 3 achieves Pareto-optimal balance between adaptation strength and catastrophic forgetting:**
 
 ![Forgetting Trade-off](Artifacts/3.%20graph_2.png)
 
